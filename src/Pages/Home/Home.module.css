@@ -1,0 +1,24 @@
+.bgmain{
+    background-color:var(--bg-home);
+    padding: 10px;
+}
+.number{
+    color: rgb(4, 133, 90);
+}
+.icon{
+    width: 40px;
+    height: 40px;
+}
+
+.icon1{
+   background-color: rgb(57, 158, 23) 
+}
+.icon2{
+    background-color: rgb(189, 164, 2);
+}
+.icon3{
+    background-color: rgb(29, 202, 202);
+}
+.icon4{
+    background-color: rgb(194, 82, 7);
+}

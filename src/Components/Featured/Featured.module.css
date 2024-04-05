@@ -1,0 +1,8 @@
+.wimg{
+    width: 45%;
+}
+@media (max-width:768px) {
+    .wimg{
+        width: 25%;
+    }
+}

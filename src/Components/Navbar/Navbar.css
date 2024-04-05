@@ -1,0 +1,25 @@
+.navbar{
+    background-color: var(--bg-main);
+    color: var(--main-color);
+  }
+  .div-dark{
+    border: 1px dashed rgb(211, 211, 211);
+    width: 25px;
+    height: 25px;
+    border-radius: 50%;
+    background-color: rgb(31, 32, 33);
+  }
+  .div-light{
+    border: 1px dashed rgb(251, 255, 0);
+    width: 25px;
+    height: 25px;
+    border-radius: 50%;
+    background-color: rgba(220, 220, 220, 0.801);
+  }
+  .div-light i{
+   color: rgb(255, 255, 0);
+  }
+.hov:hover {
+  background-color:var(--bg-main) ;
+color: var(--main-color) ;
+}

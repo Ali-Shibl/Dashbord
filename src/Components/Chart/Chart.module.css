@@ -1,0 +1,8 @@
+.aspect{
+aspect-ratio: 2/1;
+}
+@media (max-width:992px) {
+    .aspect{
+        aspect-ratio: 1/1;
+        }
+}

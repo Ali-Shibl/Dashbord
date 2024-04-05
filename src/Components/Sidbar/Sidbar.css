@@ -1,0 +1,7 @@
+.sidbar{
+    background-color: var(--bg-main);
+  color: var(--main-color);
+}
+.text-sidebar{
+  color: var(--color-gray);
+}
